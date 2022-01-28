@@ -6,5 +6,11 @@ public class Main {
 
         CarBasics car=new CarBasics();
 
+        car.Color="red";
+        car.Engine="7999cc";
+        car.door="2";
+        car.number="115998";
+        System.out.println(car.Color);
+
     }
 }
