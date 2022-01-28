@@ -6,9 +6,9 @@ public class Main {
 
         CarBasics car=new CarBasics();
         car.Color="green";
-        car.number="789";
-        car.Engine="544444cc";
-        car.door="3";
+        car.number="7545459";
+        car.Engine="543254cc";
+        car.door="4";
         System.out.println(car.Color);
 
     }
